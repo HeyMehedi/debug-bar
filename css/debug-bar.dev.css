@@ -469,6 +469,7 @@ body.debug-bar-maximized.debug-bar-visible {
 	background: #aaa;
 
 	cursor: pointer;
+	line-height: 1 !important;
 }
 #debug-bar-actions span:hover {
 	background: #888;
